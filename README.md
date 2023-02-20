@@ -1,16 +1,9 @@
 # hv-chatbot
 
-Solutions
 
 Real-time patient identity resolution technologyHealthVerity Census® Largest healthcare and consumer data ecosystemHealthVerity Marketplace Maternal Outcomes Masterset (MOM) Next-gen contract and rebate management Value-based agreements and real-time patient monitoring HIPAA-compliant media attribution and measurement Enterprise-wide consent and permission management Clinical trial and real-world data linkage
 
-Partners
 
-Resources
-
-HealthVerity blog News & Events Resource library Publications
-
-About us Careers Request demo Sign in
 
 HEALTHVERITY IPGE PLATFORM
 
@@ -62,15 +55,10 @@ Patient identity resolution when accuracy and security matters
 
 Establish unique, but persistent identities to resolve patient fragmentation and decrease the noise of healthcare data with the most accurate, de-identification and matching solution in the market. Link and match records with 10x greater accuracy while managing identity centrally.
 
-Learn more
 
 Source real-world data from the nation’s largest healthcare and consumer data ecosystem
 
-0 US patients
 
-0 De-identified transactions
-
-0 Unique data sources
 
 Centrally access EMR, lab, pharmacy and medical claims, hospital chargemaster, consumer and grocery data to find the exact patient cohort you need with the flexibility to license only the data you want. Efficiently search, combine and exchange data in a privacy-protected manner with internal and external partners for enhanced insights into the patient journey.
 
@@ -116,25 +104,7 @@ Use case Defining relevant outcomes (VBA)
 
 A top 20 pharma company is working with a payer to determine which parameters they should measure their value-based agreement (VBA) against. Discover how the company was able to achieve interoperability, source RWD and build a longitudinal view of the patient population. Download now
 
-Upcoming Events
 
-HealthVerity LIVE Interactive Demo
-
-February 28, 2023
-
-Protect yourself against recruitment fraud.
-
-We are aware that unauthorized individuals may have posed as HealthVerity employees, made contact about job opportunities and extended job offers via text message, instant message or chat rooms such as Skype. To ensure a job posting is legitimate, it must be listed or linked to from this page. Learn how to protect yourself from recruitment fraud
-
-REQUEST DEMO HealthVerity IPGE is your answer for Identity, Privacy, Governance and Exchange.
-
-To explore the power of the HealthVerity IPGE platform, fill out the form with your contact information.
-
-© 2023 HealthVerity, Inc.    |    Terms & Conditions    |    Privacy Policy
-
-Contact Us Careers Twitter LinkedIn
-
-© 2023 HealthVerity, Inc.    |    Terms & Conditions    |    Privacy Policy
 
 Largest Healthcare Data Ecosystem Real-time patient identity resolution technologyHealthVerity Census® Largest healthcare and consumer data ecosystemHealthVerity Marketplace Maternal Outcomes Masterset (MOM) Next-gen contract and rebate management Value-based agreements and real-time patient monitoring HIPAA-compliant media attribution and measurement Enterprise consent and permission management Clinical trial and real-world data linkage Partners HealthVerity blog News & Events Resource library Publications About us Careers
 
@@ -243,5 +213,4 @@ The influx of RSV cases we saw early on this season reinforces the importance in
 The Building Blocks to Controlling RSV
 With an average of 58,000 to 80,000 children under age five being hospitalized by RSV each year and cases on the rise, it is important to quickly develop vaccination and treatment options. The robust RSV dataset that HealthVerity has assembled provides a comprehensive longitudinal view of the patient journey accumulated from a diverse variety of sources, including open and closed payer claims, electronic medical records, vaccine data from pharmacies, labs and hospital records. This, coupled with the HealthVerity IPGE platform, based on the foundational elements of Identity, Privacy, Governance and Exchange, provides the building blocks needed to accelerate RSV research and control the rapid spread of RSV.
 
-Schedule a demo to learn more about the HealthVerity RSV dataset.
 
